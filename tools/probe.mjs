@@ -1,0 +1,30 @@
+import { pathToFileURL } from 'node:url';
+const pw = await import(pathToFileURL('C:/Users/Kentany/AppData/Local/npm-cache/_npx/e41f203b7505f1fb/node_modules/playwright/index.js').href);
+const chromium = pw.chromium || pw.default?.chromium;
+const b = await chromium.launch({channel:'chrome'});
+const ctx = await b.newContext({viewport:{width:1440,height:920}});
+await ctx.addInitScript(()=>localStorage.setItem('sra.settings.v1',JSON.stringify({includeUnreleased:false,offline:false,disclaimerAck:true,lastCheck:null})));
+const p = await ctx.newPage();
+p.on('pageerror',e=>console.log('ERR',e.message));
+await p.goto('http://127.0.0.1:8765/#/enemies',{waitUntil:'networkidle'});
+await p.waitForSelector('.enemy-grid');
+await p.waitForTimeout(600);
+console.log('hash', await p.evaluate(()=>location.hash));
+console.log('active', await p.evaluate(()=>[...document.querySelectorAll('.nav-item.is-active')].map(e=>e.getAttribute('data-nav-key'))));
+console.log('relic/probe');
+await p.goto('http://127.0.0.1:8765/#/relics',{waitUntil:'networkidle'});
+await p.waitForSelector('.relic-card');
+await p.waitForTimeout(700);
+console.log(await p.evaluate(()=>{
+  const card=document.querySelector('.relic-card'); const ico=card.querySelector('.relic-ico'); const img=ico?.querySelector('img');
+  return {card:card?.getBoundingClientRect().toJSON(), ico:ico?.getBoundingClientRect().toJSON(), img:img?.getBoundingClientRect().toJSON(), icoDisplay:ico?getComputedStyle(ico).display:null, srcStart:img?.src.slice(0,60), complete:img?.complete, natural:img?[img.naturalWidth,img.naturalHeight]:null};
+}));
+await p.screenshot({path:'tools/shots/probe-relics.png'});
+await p.goto('http://127.0.0.1:8765/#/character/firefly',{waitUntil:'networkidle'});
+await p.waitForSelector('.fan-grid');
+await p.waitForTimeout(700);
+console.log(await p.evaluate(()=>{
+  const img=document.querySelector('.fan-img img'); const card=document.querySelector('.fan-card');
+  return {img:img?.getBoundingClientRect().toJSON(), card:card?.getBoundingClientRect().toJSON(), natural:img?[img.naturalWidth,img.naturalHeight]:null};
+}));
+await b.close();

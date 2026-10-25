@@ -1,0 +1,932 @@
+[
+  {
+    "name": "开拓者（毁灭）",
+    "id": "3124",
+    "releaseVersion": "1.0",
+    "releaseDate": "2023-04-26",
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": ""
+  },
+  {
+    "name": "开拓者（存护）",
+    "id": "3123",
+    "releaseVersion": "1.0",
+    "releaseDate": "2023-04-26",
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": ""
+  },
+  {
+    "name": "开拓者（同谐）",
+    "id": "411",
+    "releaseVersion": "2.2",
+    "releaseDate": "2024-05-08",
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": ""
+  },
+  {
+    "name": "开拓者（记忆）",
+    "id": "4442",
+    "releaseVersion": "3.0",
+    "releaseDate": "2025-01-15",
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 4,
+    "missing": ""
+  },
+  {
+    "name": "开拓者（欢愉）",
+    "id": "7047",
+    "releaseVersion": "4.0",
+    "releaseDate": "2026-04-22",
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": ""
+  },
+  {
+    "name": "三月七",
+    "id": "48",
+    "releaseVersion": "1.0",
+    "releaseDate": "2023-04-26",
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": ""
+  },
+  {
+    "name": "丹恒",
+    "id": "406",
+    "releaseVersion": "1.0",
+    "releaseDate": "2023-04-26",
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": ""
+  },
+  {
+    "name": "姬子",
+    "id": "407",
+    "releaseVersion": "1.0",
+    "releaseDate": "2023-04-26",
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": ""
+  },
+  {
+    "name": "瓦尔特",
+    "id": "560",
+    "releaseVersion": "1.0",
+    "releaseDate": "2023-04-26",
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": ""
+  },
+  {
+    "name": "卡芙卡",
+    "id": "1298",
+    "releaseVersion": "1.2",
+    "releaseDate": "2023-08-09",
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": ""
+  },
+  {
+    "name": "银狼",
+    "id": "1085",
+    "releaseVersion": "1.1",
+    "releaseDate": "2023-06-07",
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": ""
+  },
+  {
+    "name": "刃",
+    "id": "1214",
+    "releaseVersion": "1.2",
+    "releaseDate": "2023-07-19",
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": ""
+  },
+  {
+    "name": "阿兰",
+    "id": "380",
+    "releaseVersion": "1.0",
+    "releaseDate": "2023-04-26",
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": ""
+  },
+  {
+    "name": "艾丝妲",
+    "id": "52",
+    "releaseVersion": "1.0",
+    "releaseDate": "2023-04-26",
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": ""
+  },
+  {
+    "name": "黑塔",
+    "id": "49",
+    "releaseVersion": "1.0",
+    "releaseDate": "2023-04-26",
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": ""
+  },
+  {
+    "name": "布洛妮娅",
+    "id": "453",
+    "releaseVersion": "1.0",
+    "releaseDate": "2023-04-26",
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": ""
+  },
+  {
+    "name": "杰帕德",
+    "id": "424",
+    "releaseVersion": "1.0",
+    "releaseDate": "2023-04-26",
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": ""
+  },
+  {
+    "name": "希露瓦",
+    "id": "423",
+    "releaseVersion": "1.0",
+    "releaseDate": "2023-04-26",
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": ""
+  },
+  {
+    "name": "佩拉",
+    "id": "422",
+    "releaseVersion": "1.0",
+    "releaseDate": "2023-04-26",
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": ""
+  },
+  {
+    "name": "娜塔莎",
+    "id": "46",
+    "releaseVersion": "1.0",
+    "releaseDate": "2023-04-26",
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": ""
+  },
+  {
+    "name": "希儿",
+    "id": "317",
+    "releaseVersion": "1.0",
+    "releaseDate": "2023-04-26",
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": ""
+  },
+  {
+    "name": "克拉拉",
+    "id": "414",
+    "releaseVersion": "1.0",
+    "releaseDate": "2023-04-26",
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": ""
+  },
+  {
+    "name": "桑博",
+    "id": "386",
+    "releaseVersion": "1.0",
+    "releaseDate": "2023-04-26",
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": ""
+  },
+  {
+    "name": "虎克",
+    "id": "76",
+    "releaseVersion": "1.0",
+    "releaseDate": "2023-04-26",
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": ""
+  },
+  {
+    "name": "玲可",
+    "id": "1543",
+    "releaseVersion": "1.3",
+    "releaseDate": "2023-09-20",
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": ""
+  },
+  {
+    "name": "卢卡",
+    "id": "1325",
+    "releaseVersion": "1.2",
+    "releaseDate": "2023-08-09",
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": ""
+  },
+  {
+    "name": "景元",
+    "id": "389",
+    "releaseVersion": "1.0",
+    "releaseDate": "2023-05-17",
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": ""
+  },
+  {
+    "name": "彦卿",
+    "id": "565",
+    "releaseVersion": "1.0",
+    "releaseDate": "2023-04-26",
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": ""
+  },
+  {
+    "name": "素裳",
+    "id": "412",
+    "releaseVersion": "1.0",
+    "releaseDate": "2023-04-26",
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": ""
+  },
+  {
+    "name": "符玄",
+    "id": "1646",
+    "releaseVersion": "1.3",
+    "releaseDate": "2023-09-20",
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": ""
+  },
+  {
+    "name": "青雀",
+    "id": "497",
+    "releaseVersion": "1.0",
+    "releaseDate": "2023-04-26",
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": ""
+  },
+  {
+    "name": "驭空",
+    "id": "1187",
+    "releaseVersion": "1.1",
+    "releaseDate": "2023-06-28",
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": ""
+  },
+  {
+    "name": "停云",
+    "id": "561",
+    "releaseVersion": "1.0",
+    "releaseDate": "2023-04-26",
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": ""
+  },
+  {
+    "name": "白露",
+    "id": "564",
+    "releaseVersion": "1.0",
+    "releaseDate": "2023-04-26",
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": ""
+  },
+  {
+    "name": "罗刹",
+    "id": "1188",
+    "releaseVersion": "1.1",
+    "releaseDate": "2023-06-28",
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": ""
+  },
+  {
+    "name": "丹恒·饮月",
+    "id": "1472",
+    "releaseVersion": "1.3",
+    "releaseDate": "2023-08-30",
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": ""
+  },
+  {
+    "name": "镜流",
+    "id": "1708",
+    "releaseVersion": "1.4",
+    "releaseDate": "2023-10-11",
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": ""
+  },
+  {
+    "name": "桂乃芬",
+    "id": "1710",
+    "releaseVersion": "1.4",
+    "releaseDate": "2023-10-27",
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": ""
+  },
+  {
+    "name": "藿藿",
+    "id": "1712",
+    "releaseVersion": "1.5",
+    "releaseDate": "2023-11-15",
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": ""
+  },
+  {
+    "name": "托帕&账账",
+    "id": "1709",
+    "releaseVersion": "1.4",
+    "releaseDate": "2023-10-27",
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": ""
+  },
+  {
+    "name": "阮·梅",
+    "id": "1874",
+    "releaseVersion": "1.6",
+    "releaseDate": null,
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": "date"
+  },
+  {
+    "name": "雪衣",
+    "id": "1872",
+    "releaseVersion": "1.6",
+    "releaseDate": "2023-12-27",
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": ""
+  },
+  {
+    "name": "银枝",
+    "id": "1714",
+    "releaseVersion": "1.5",
+    "releaseDate": "2023-12-06",
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": ""
+  },
+  {
+    "name": "真理医生",
+    "id": "1873",
+    "releaseVersion": "1.6",
+    "releaseDate": "2024-01-17",
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": ""
+  },
+  {
+    "name": "黑天鹅",
+    "id": "2082",
+    "releaseVersion": "2.0",
+    "releaseDate": "2024-02-06",
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": ""
+  },
+  {
+    "name": "米沙",
+    "id": "2086",
+    "releaseVersion": "2.0",
+    "releaseDate": "2024-02-06",
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": ""
+  },
+  {
+    "name": "寒鸦",
+    "id": "1717",
+    "releaseVersion": "1.6",
+    "releaseDate": "2023-12-06",
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": ""
+  },
+  {
+    "name": "花火",
+    "id": "2087",
+    "releaseVersion": "2.0",
+    "releaseDate": "2024-02-29",
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": ""
+  },
+  {
+    "name": "黄泉",
+    "id": "2300",
+    "releaseVersion": "2.1",
+    "releaseDate": null,
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": "date"
+  },
+  {
+    "name": "加拉赫",
+    "id": "2304",
+    "releaseVersion": "2.1",
+    "releaseDate": "2024-03-27",
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": ""
+  },
+  {
+    "name": "砂金",
+    "id": "2302",
+    "releaseVersion": "2.1",
+    "releaseDate": "2024-04-17",
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": ""
+  },
+  {
+    "name": "知更鸟",
+    "id": "2524",
+    "releaseVersion": "2.2",
+    "releaseDate": "2024-05-08",
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": ""
+  },
+  {
+    "name": "波提欧",
+    "id": "2526",
+    "releaseVersion": "2.2",
+    "releaseDate": "2024-05-29",
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": ""
+  },
+  {
+    "name": "流萤",
+    "id": "2674",
+    "releaseVersion": "2.3",
+    "releaseDate": "2024-06-19",
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": ""
+  },
+  {
+    "name": "翡翠",
+    "id": "2675",
+    "releaseVersion": "2.3",
+    "releaseDate": "2024-07-10",
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": ""
+  },
+  {
+    "name": "云璃",
+    "id": "3056",
+    "releaseVersion": "2.4",
+    "releaseDate": "2024-07-31",
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": ""
+  },
+  {
+    "name": "三月七·巡猎",
+    "id": "3121",
+    "releaseVersion": "2.4",
+    "releaseDate": "2024-07-31",
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": ""
+  },
+  {
+    "name": "椒丘",
+    "id": "3058",
+    "releaseVersion": "2.4",
+    "releaseDate": "2024-08-21",
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": ""
+  },
+  {
+    "name": "飞霄",
+    "id": "3501",
+    "releaseVersion": "2.5",
+    "releaseDate": "2024-09-10",
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": ""
+  },
+  {
+    "name": "貊泽",
+    "id": "3505",
+    "releaseVersion": "2.5",
+    "releaseDate": "2024-09-10",
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": ""
+  },
+  {
+    "name": "灵砂",
+    "id": "3502",
+    "releaseVersion": "2.5",
+    "releaseDate": "2024-10-02",
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": ""
+  },
+  {
+    "name": "乱破",
+    "id": "3732",
+    "releaseVersion": "2.6",
+    "releaseDate": "2024-10-23",
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": ""
+  },
+  {
+    "name": "星期日",
+    "id": "4174",
+    "releaseVersion": "2.7",
+    "releaseDate": "2024-12-04",
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": ""
+  },
+  {
+    "name": "忘归人",
+    "id": "4175",
+    "releaseVersion": "2.7",
+    "releaseDate": "2024-12-25",
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": ""
+  },
+  {
+    "name": "大黑塔",
+    "id": "4439",
+    "releaseVersion": "3.0",
+    "releaseDate": "2025-01-15",
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": ""
+  },
+  {
+    "name": "阿格莱雅",
+    "id": "4440",
+    "releaseVersion": "3.0",
+    "releaseDate": null,
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": "date"
+  },
+  {
+    "name": "缇宝",
+    "id": "4608",
+    "releaseVersion": "3.1",
+    "releaseDate": null,
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": "date"
+  },
+  {
+    "name": "万敌",
+    "id": "4609",
+    "releaseVersion": "3.1",
+    "releaseDate": null,
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": "date"
+  },
+  {
+    "name": "遐蝶",
+    "id": "4916",
+    "releaseVersion": "3.2",
+    "releaseDate": null,
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": "date"
+  },
+  {
+    "name": "那刻夏",
+    "id": "4917",
+    "releaseVersion": "3.2",
+    "releaseDate": null,
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": "date"
+  },
+  {
+    "name": "风堇",
+    "id": "5108",
+    "releaseVersion": "3.3",
+    "releaseDate": null,
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": "date"
+  },
+  {
+    "name": "赛飞儿",
+    "id": "5109",
+    "releaseVersion": "3.3",
+    "releaseDate": null,
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": "date"
+  },
+  {
+    "name": "白厄",
+    "id": "5107",
+    "releaseVersion": "3.4",
+    "releaseDate": null,
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": "date"
+  },
+  {
+    "name": "Saber",
+    "id": "5339",
+    "releaseVersion": "3.4",
+    "releaseDate": "2025-07-11",
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": ""
+  },
+  {
+    "name": "Archer",
+    "id": "5338",
+    "releaseVersion": "3.4",
+    "releaseDate": "2025-07-11",
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": ""
+  },
+  {
+    "name": "海瑟音",
+    "id": "5582",
+    "releaseVersion": "3.5",
+    "releaseDate": null,
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": "date"
+  },
+  {
+    "name": "刻律德菈",
+    "id": "5583",
+    "releaseVersion": "3.5",
+    "releaseDate": null,
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": "date"
+  },
+  {
+    "name": "长夜月",
+    "id": "5736",
+    "releaseVersion": "3.6",
+    "releaseDate": null,
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": "date"
+  },
+  {
+    "name": "丹恒•腾荒",
+    "id": "5737",
+    "releaseVersion": "3.6",
+    "releaseDate": null,
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": "date"
+  },
+  {
+    "name": "昔涟",
+    "id": "5851",
+    "releaseVersion": "3.7",
+    "releaseDate": null,
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": "date"
+  },
+  {
+    "name": "大丽花",
+    "id": "6025",
+    "releaseVersion": "3.8",
+    "releaseDate": null,
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": "date"
+  },
+  {
+    "name": "爻光",
+    "id": "6746",
+    "releaseVersion": "4.0",
+    "releaseDate": null,
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": "date"
+  },
+  {
+    "name": "火花",
+    "id": "6747",
+    "releaseVersion": "4.0",
+    "releaseDate": null,
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": "date"
+  },
+  {
+    "name": "不死途",
+    "id": "6814",
+    "releaseVersion": "4.1",
+    "releaseDate": null,
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": "date"
+  },
+  {
+    "name": "银狼LV.999",
+    "id": "7044",
+    "releaseVersion": "4.2",
+    "releaseDate": "2026-04-22",
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": ""
+  },
+  {
+    "name": "绯英",
+    "id": "7045",
+    "releaseVersion": "4.2",
+    "releaseDate": null,
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": "date"
+  },
+  {
+    "name": "千冶·刃",
+    "id": "7155",
+    "releaseVersion": "4.3",
+    "releaseDate": "2026-06-01",
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": ""
+  },
+  {
+    "name": "姬子•启行",
+    "id": "7484",
+    "releaseVersion": "4.4",
+    "releaseDate": "2026-07-15",
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": ""
+  },
+  {
+    "name": "远坂凛",
+    "id": "7500",
+    "releaseVersion": "4.4",
+    "releaseDate": "2026-07-24",
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": ""
+  },
+  {
+    "name": "吉尔伽美什",
+    "id": "7499",
+    "releaseVersion": "4.4",
+    "releaseDate": "2026-07-24",
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": ""
+  },
+  {
+    "name": "知更鸟·晴歌",
+    "id": "7726",
+    "releaseVersion": "4.5",
+    "releaseDate": "2026-08-26",
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": ""
+  },
+  {
+    "name": "砂金·戏浪",
+    "id": "7725",
+    "releaseVersion": "4.5",
+    "releaseDate": "2026-09-12",
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": ""
+  },
+  {
+    "name": "真珠",
+    "id": "7935",
+    "releaseVersion": "4.6",
+    "releaseDate": "2026-09-28",
+    "skills": 5,
+    "eidolons": 6,
+    "traces": 3,
+    "missing": ""
+  }
+]

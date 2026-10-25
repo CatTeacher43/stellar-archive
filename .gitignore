@@ -1,0 +1,14 @@
+# 生成物与本地运行产物
+tools/shots/
+tools/server.log
+*.log
+
+# 依赖与系统文件
+node_modules/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 临时文件
+*.tmp
+*.bak

@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-label="星轨档案库">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1730"/>
+      <stop offset=".55" stop-color="#070c18"/>
+      <stop offset="1" stop-color="#0b1020"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="42%" r="52%">
+      <stop offset="0" stop-color="#f2c96b" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#f2c96b" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffe6a8"/>
+      <stop offset=".5" stop-color="#f2c96b"/>
+      <stop offset="1" stop-color="#cf9f3f"/>
+    </linearGradient>
+    <linearGradient id="arc" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f2c96b" stop-opacity=".9"/>
+      <stop offset="1" stop-color="#5aa2f0" stop-opacity=".55"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#bg)"/>
+  <rect width="512" height="512" rx="112" fill="url(#glow)"/>
+  <g fill="#e9edf7">
+    <circle cx="96" cy="120" r="2.2" opacity=".5"/>
+    <circle cx="414" cy="98" r="1.8" opacity=".4"/>
+    <circle cx="438" cy="366" r="2.4" opacity=".45"/>
+    <circle cx="88" cy="366" r="1.7" opacity=".35"/>
+    <circle cx="150" cy="430" r="1.4" opacity=".3"/>
+    <circle cx="362" cy="424" r="1.6" opacity=".3"/>
+  </g>
+  <circle cx="256" cy="256" r="168" fill="none" stroke="#5d7bb0" stroke-opacity=".28" stroke-width="1.5"/>
+  <circle cx="256" cy="256" r="132" fill="none" stroke="#f2c96b" stroke-opacity=".34" stroke-width="1.5" stroke-dasharray="3 9"/>
+  <path d="M256 88a168 168 0 0 1 145.5 84" fill="none" stroke="url(#arc)" stroke-width="4" stroke-linecap="round"/>
+  <path d="M111 256a145 145 0 0 1 12-58" fill="none" stroke="#5aa2f0" stroke-opacity=".6" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="401.5" cy="172" r="7" fill="#5aa2f0"/>
+  <circle cx="401.5" cy="172" r="13" fill="#5aa2f0" opacity=".18"/>
+  <path d="M256 138l25.5 82.5L364 246l-82.5 25.5L256 354l-25.5-82.5L148 246l82.5-25.5z" fill="url(#gold)"/>
+  <path d="M256 184l14.5 47.5L318 246l-47.5 14.5L256 308l-14.5-47.5L194 246l47.5-14.5z" fill="#0a0f1d" opacity=".22"/>
+  <circle cx="256" cy="246" r="7" fill="#fff8e6"/>
+  <circle cx="256" cy="246" r="18" fill="#f2c96b" opacity=".18"/>
+</svg>

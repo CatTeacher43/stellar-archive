@@ -1,0 +1,11 @@
+import { pathToFileURL } from 'node:url';
+const pw = await import(pathToFileURL('C:/Users/Kentany/AppData/Local/npm-cache/_npx/e41f203b7505f1fb/node_modules/playwright/index.js').href);
+const chromium = pw.chromium || pw.default?.chromium;
+const b = await chromium.launch({ channel: 'chrome' });
+const ctx = await b.newContext({ viewport: { width: 390, height: 844 }, deviceScaleFactor: 2, isMobile: true, hasTouch: true });
+await ctx.addInitScript(() => localStorage.setItem('sra.settings.v1', JSON.stringify({ includeUnreleased:false, offline:false, disclaimerAck:true, lastCheck:null })));
+const p = await ctx.newPage();
+await p.goto('http://127.0.0.1:8765/#/search?q=王棋', { waitUntil: 'networkidle' });
+await p.waitForTimeout(900);
+console.log(await p.evaluate(() => [...document.querySelectorAll('.mobile-nav a,.mobile-nav button')].map(e => ({ text: e.textContent.trim(), cls: e.className, color: getComputedStyle(e).color, active: e.matches('.is-active') }))));
+await b.close();
